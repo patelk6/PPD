@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="s_btn1">Randomize</string>
+    <string name="s_btn2">Scramble</string>
+    <string name="s_text" />
+    <string name="s_input" />
+</resources>
